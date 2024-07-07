@@ -1,0 +1,24 @@
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\bin\Debug\Database1.mdf
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\bin\Debug\Database1_log.ldf
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\bin\Debug\FormApp.Econtact.exe.config
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\bin\Debug\FormApp.Econtact.exe
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\bin\Debug\FormApp.Econtact.pdb
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.FormEcontact.resources
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.Properties.Resources.resources
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.csproj.GenerateResource.cache
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.exe
+C:\Users\User\Downloads\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.pdb
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\bin\Debug\Database1.mdf
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\bin\Debug\Database1_log.ldf
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\bin\Debug\FormApp.Econtact.exe.config
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\bin\Debug\FormApp.Econtact.exe
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\bin\Debug\FormApp.Econtact.pdb
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.FormEcontact.resources
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.Properties.Resources.resources
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.exe
+C:\Users\User\OneDrive\سطح المكتب\Level1.1\Database\Assignment\AppVS\FormApp.Econtact\obj\Debug\FormApp.Econtact.pdb
